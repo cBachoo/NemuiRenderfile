@@ -3,3 +3,6 @@ A 65% keyboard with a top right blocker - inspirred by the tgr 910. Sleepy theme
 
 Layout:
 ![layout](layout.png)
+
+![nemui](nemui1.jpg)
+![nemui2](nemui2.jpg)
