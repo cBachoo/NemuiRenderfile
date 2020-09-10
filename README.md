@@ -3,5 +3,3 @@ A 65% keyboard with a top right blocker - inspirred by the tgr 910. Sleepy theme
 
 Layout:
 ![layout](layout.png)
-
-Bottom row 1.25u, 1.25u, 1.25u, 6.25u, 1.25u, 1.25u.
